@@ -6,4 +6,4 @@
 * Benjamin Hoyos Herrera
 * Angel Yedid Nacif Mena
 * Calos Abraham Martinez Zamora
-* Genaro Gonzales Lozada
+* Genaro Gonzalez Lozada
